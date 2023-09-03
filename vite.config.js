@@ -3,7 +3,7 @@ import { resolve } from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/IntensivaoJavaScript",
+  base: "/IntensivaoJavaScript/",
   plugins: [],
   resolve: {
     /*something*/
